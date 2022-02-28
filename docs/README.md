@@ -1,7 +1,7 @@
 # Personal Module Manager
 
 *Done by*:
-* Run Ze
+* Runze
 * Daryl
 * Benny
 * Tze Ning  
