@@ -1,4 +1,4 @@
-# Module Manager - App for manage modules & grades for NUS Student.
+# Module Manager - Manage modules & grades for NUS Student.
 
 We adopted a project template for a small CLI Java project from NUS CS2103. It uses Gradle for build automation and GitHub Actions for CI.
 
