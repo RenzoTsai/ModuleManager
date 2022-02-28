@@ -2,6 +2,8 @@
 
 We adopted a project template for a small CLI Java project from NUS CS2103. It uses Gradle for build automation and GitHub Actions for CI.
 
+For the details of this project, you may refer to this [link](https://runze.xyz/ModuleManager/). The followings are the setups for the project template from CS2103 and you may also refer to this [link](https://github.com/AY1920S2-CS2113-T15-3/tp). 
+
 ## Setting up in Intellij
 
 Prerequisites: JDK 11, update Intellij to the most recent version
