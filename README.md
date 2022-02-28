@@ -1,6 +1,6 @@
-# Project Template for the tP
+# Module Manager - App for manage modules & grades for NUS Student.
 
-This is a project template for a small CLI Java project. It uses Gradle for build automation and GitHub Actions for CI.
+We adopted a project template for a small CLI Java project from NUS CS2103. It uses Gradle for build automation and GitHub Actions for CI.
 
 ## Setting up in Intellij
 
